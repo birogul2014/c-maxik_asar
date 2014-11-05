@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1415094215 source:c:\documents and settings\administrator\my documents\apps\turlar\main.cpp
+	<iostream>
+	<string>
+	"tur.h"
+
+1415094253 c:\documents and settings\administrator\my documents\apps\turlar\tur.h
+

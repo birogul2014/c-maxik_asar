@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415098544 source:c:\documents and settings\administrator\my documents\apps\vector\main.cpp
+	<iostream>
+	<vector>
+	<cpuid.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1385316878 source:c:\documents and settings\administrator\my documents\apps\sss\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1385316878 c:\documents and settings\administrator\my documents\apps\sss\resource.h
+
+1385316878 source:c:\documents and settings\administrator\my documents\apps\sss\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

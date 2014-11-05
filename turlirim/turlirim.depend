@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1414585805 source:c:\documents and settings\administrator\my documents\apps\turlirim\main.cpp
+	<iostream>
+	"tur.h"
+	<string>
+
+1414586139 c:\documents and settings\administrator\my documents\apps\turlirim\tur.h
+	<string>
+

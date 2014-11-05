@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1414992933 source:c:\documents and settings\administrator\my documents\apps\hujjatokush\main.cpp
+	<iostream>
+	<fstream>
+	"okush.h"
+	<vector>
+	<deque>
+	<list>
+
+1414993297 c:\documents and settings\administrator\my documents\apps\hujjatokush\okush.h
+	<vector>
+
